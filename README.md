@@ -1,30 +1,14 @@
-# React + TypeScript + Vite
+<p align='center'><img src='https://avatars.githubusercontent.com/u/73488089?s=400&u=1bebef5d05c250c406bf9cae1bbfbbfd778bb207&v=15' width='10%'/></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2 align='center'>Civil Cultural</h2>
 
-Currently, two official plugins are available:
+  <p>O objetivo do projeto civil cultural, é oferecer um projeto de propriedade pública e acabar em grande parte com um dos vazios existentes, em conteúdos informativos e de comunicação importantes, que acontece na internet.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <p>Cumprirá as leis próprias oficiais de cada estado/país que o portal representará, em possíveis centenas de outros portais, do mesmo princípio. Tem a gestão controlada por administradores e criação de publicações (artigos e noticias via links, e conversas dos utilizadores em salas de escrita) com gestão profissional, em cada área. Também terá sócios/donos, que darão propostas e ideias para aplicarem no projeto. Na parte das conversas do chat/bate-papo, terão salas em temas de assuntos populares.</p>
 
-## Expanding the ESLint configuration
+  <p>O sistema vai oferecer grande parte do conhecimento sério popular e um sistema único em conversas construtivas, com controle de qualidade. Com memorial das melhores conversas.</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<p>Quer contribuir ou ficar atualizado sobre o projeto, entre na nossa comunidade <a href='https://discord.gg/GnrGP3Q35B'>discord</a>.</p> 
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<a href='https://github.com/Civil-Cultural/apiCivilCultural/blob/master/LICENCE.MD'>© 2024 Civil Cultural</a>

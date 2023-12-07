@@ -1,0 +1,63 @@
+.container_profile {
+  padding: 1rem 0;
+
+  &.light {
+    background-color: var(--light);
+    color: var(--gray-500);
+  }
+
+  &.dark {
+    background-color: var(--dark);
+    color: var(--gray-50);
+  }
+}
+
+.header {
+  margin-bottom: 1em;
+}
+
+.page_title {
+  font-size: 5em;
+}
+
+.section {
+  margin-bottom: 2.5em;
+  padding: 1em;
+}
+
+.section_title {
+  font-size: 1.5em;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.input_container {
+  margin-bottom: 1em;
+}
+
+.edit_btn {
+  height: auto;
+  padding: 0.2rem;
+  width: 70px;
+  border-radius: 1.5rem;
+}
+
+.label {
+  font-size: 1em;
+  padding-top: 0.2em;
+
+  left: -2px;
+}
+
+.input {
+  font-size: 0.8em;
+
+  &:disabled {
+    border-bottom: none;
+  }
+}
+
+.eye_btn {
+  position: absolute;
+  top: 1.5em;
+  right: 1px;
+}
