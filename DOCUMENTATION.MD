@@ -5,6 +5,9 @@ Essa documentação é um guia para rodar a aplicação no ambiente local. E tam
 
 ### Instalando dependências
 > Usamos o yarn para gerenciar os pacotes nesse projeto.
+Indicamos usar nvm para gerenciar as versões do note
+
+> Nodejs: v20.10.0
 
 <div align='center'>
     <img width='80%' src='./doc/yarn-install.png'/>
@@ -21,7 +24,7 @@ Obs: Use boas práticas nesse projeto. Use as cores padrões definida no arquivo
 
 
 
-### Bibliotecas usadas
+### Bibliotecas utilizadas
 [Vitejs + React + SWC + Typescript](https://vitejs.dev/guide/)
 
 [React](https://react.dev)
